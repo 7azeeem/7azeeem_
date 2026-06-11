@@ -1,5 +1,19 @@
 #  About Me :
-I AM a DevOps Engineer in the making, currently building a strong foundation across AWS, Linux, Networking, CI/CD, and Infrastructure Automation.<br>My journey started with Python, SQL, web scraping, and data tools like Pandas — and naturally grew into DevOps, where I found the perfect balance between development, automation, and problem-solving.<br><br>So far, I’ve completed:<br><br>Decoding DevOps – From Basics to Advanced Projects<br>Covered Linux, Git, GitOps, Jenkins, Docker, Kubernetes, Terraform, Ansible, Bash, Vagrant, Networking, and advanced automation workflows — with strong use of AI to speed up learning, debugging, scripting, and architecture exploration.<br><br>Built and managed cloud environments using AWS, working with networking, compute, storage, monitoring, security, and automation services. Gained practical experience with EC2, IAM, VPC, S3, Route 53, Load Balancing, CloudWatch, Databases, Containers, and infrastructure design principles.<br><br>I enjoy building automated workflows, breaking complex problems into clean solutions, and experimenting with DevOps tools end-to-end.<br>I leverage AI professionally in my daily workflow — for scripting, troubleshooting, automation design, and accelerating delivery.<br><br>My goal is simple: become the engineer who can turn infrastructure chaos into organized, scalable, automated systems — with a touch of humor and zero drama.<br><br>Always learning. Always improving. And always up for new challenges.
+I'm Adel Ashraf, a DevOps Engineer passionate about Cloud Infrastructure, Automation, and Platform Reliability.
+
+My journey began with software development, where I built a foundation in Python, SQL, and problem-solving. As my interest in technology grew, I transitioned into the world of DevOps and Cloud Engineering, focusing on designing, automating, and managing modern infrastructure.
+
+Over the past two years, I have gained hands-on experience through practical projects covering Linux administration, AWS cloud services, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, Monitoring, and Infrastructure as Code. I enjoy building scalable environments, streamlining deployment workflows, and improving system reliability through automation and DevOps best practices.
+
+I have worked extensively with AWS services including networking, compute, storage, monitoring, security, containers, and serverless technologies. My experience spans infrastructure provisioning, CI/CD pipelines, containerization, cloud-native concepts, and modern deployment strategies.
+
+Beyond technology, my background in operations has strengthened my analytical thinking, troubleshooting skills, attention to detail, and process optimization mindset—qualities that continue to shape my approach to engineering.
+
+I leverage AI as a productivity multiplier for scripting, troubleshooting, architecture exploration, documentation, and workflow automation, enabling me to learn faster and deliver more efficiently.
+
+My goal is to grow into a highly skilled DevOps and Platform Engineer capable of building reliable, scalable, and automation-driven systems that empower teams and simplify complex infrastructure challenges.
+
+Always learning. Always building. Always improving.
 
 
 ## 🌐 Socials :
